@@ -9,7 +9,7 @@
 ### Задание 2
 
 ![](./img/Снимок4.jpg)
-[](./img/export_sakila_pk.csv)
+[./img/export_sakila_pk.csv](./img/export_sakila_pk.csv)
 
 ### Задание 3
 
